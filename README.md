@@ -7,9 +7,16 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 My specialties
+
 ✔ Frontend - React/Redux, React-Native, Angular(since v2), Ngrx, Vue, Vuex, Javascript, HTML, CSS, SCSS, Bootstrap
+
 ✔ Backend - Python, Django, Flask, Golang, Revel, Gin, Iris, Ruby on Rails, Node.js, Express, Sails, Koa, PHP, Laravel
+
 ✔ Database - MySQL, PostgreSQL, MongoDB, GraphQL
+
 ✔ Devops - AWS, Google Cloud, Azure, Heroku, RabbitMQ, Redis
+
 ✔ Blockchain - Solidity, Truffle, Zeppelin, Web3
+
 ✔ Cryptocurrency - Trading Bot(Market maker, Arbitrage), Fork
+
