@@ -1,4 +1,4 @@
-### Hi there 👋 I am Rio Ephraim and I am a full stack web developer with more than 9 years of experience.
+## Hi there 👋 I am Rio Ephraim and I am a full stack web developer with more than 9 years of experience.
 
 <!--
 **rebmxict/rebmxict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 My specialties
+### 🔭 My specialties
 
 ✔ Frontend - React/Redux, React-Native, Angular(since v2), Ngrx, Vue, Vuex, Javascript, HTML, CSS, SCSS, Bootstrap
 
