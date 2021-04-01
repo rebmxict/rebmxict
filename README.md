@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ### 🔭 My specialties
 
-✔ Frontend - React/Redux, React-Native, Angular(since v2), Ngrx, Vue, Vuex, Javascript, HTML, CSS, SCSS, Bootstrap
+✔ Frontend - React/Redux, Saga, Thunk, Hook, MaterialUI, React-Native, Angular(since v2), Ngrx, Vue, Vuex, Vuetify, Javascript, HTML, CSS, SCSS, Bootstrap
 
 ✔ Backend - Python, Django, Flask, Golang, Revel, Gin, Iris, Ruby on Rails, Node.js, Express, Sails, Koa, PHP, Laravel
 
