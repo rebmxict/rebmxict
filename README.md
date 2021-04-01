@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Rio Ephraim and I am a full stack web developer with more than 9 years of experience.
+### Hi there 👋 I am a full stack web developer with more than 9 years of experience.
 
 <!--
 **rebmxict/rebmxict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
